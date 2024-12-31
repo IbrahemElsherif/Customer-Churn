@@ -105,9 +105,6 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 3. Commit your changes with clear messages.
 4. Push to your branch and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
